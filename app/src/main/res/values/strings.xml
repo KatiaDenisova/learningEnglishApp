@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="TextView">Hello!</string>
+    <string name="TextView2">What\'s your name?</string>
+    <string name="editTextMain">Name</string>
+    <string name="go">go</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textViewWelcome">Добро пожаловать,</string>
+    <string name="textViewWelcome2">User</string>
+    <string name="buttonСheckLevel">Проверить свой уровень</string>
+    <string name="ButtonChooseLevel">Выбрать уровень</string>
+
+    <string name="buttonLightLevel">Легкий</string>
+    <string name="buttonAverageLevel">Средний</string>
+    <string name="buttonDifficultLevel">Сложный</string>
+    // fragment test your level
+    <string name="textLevelQuestion">Вопрос</string>
+    <string name="checkBoxTestLevel1"> answer 1</string>
+    <string name="checkBoxTestLevel2"> answer 2</string>
+    <string name="checkBoxTestLevel3"> answer 3</string>
+    <string name="checkBoxTestLevel4"> answer 4</string>
+
+    <string name="buttonAnswerTestLevel">Ответить</string>
+    <string name="textRes">Ваш результат :</string>
+
+    //fragment result test
+    <string name="textResTestLevel">res</string>
+
+
+</resources>
